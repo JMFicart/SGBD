@@ -1,0 +1,9 @@
+Modélisation zoo:
+Chaque animal du zoo suit un régime alimentaire personnalisé.
+* Un régime est constitué d'un mélange d'ingrédients, chacun en quantité déterminée.
+Le régime d'un animal peut varier d'un jour à l'autre.
+* Chaque animal est caractérisé, en fonction de son espèce, par ses besoins minima et maxima en nutriments ( calcium, protéines, ) exprimés en mg par kg de poids de l'animal. Ces besoins sont fonction de l'espèce de l'animal.
+* On connaît la teneur de chaque ingrédient en nutriments exprimée en mg par kg d'ingrédient.
+* Chaque ingrédient a un coût unitaire.
+Chaque animal requiert des soins particuliers qui sont évalués en euros par jour.
+Ces soins peuvent varier d'un jour à l'autre.
