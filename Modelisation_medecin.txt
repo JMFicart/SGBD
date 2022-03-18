@@ -1,0 +1,9 @@
+Modèle médecin :
+* Les médecins peuvent fixer le prix de leur consultation à chaque consultation.
+* Leur carnet de consultation indique leur rendez vous.
+* A chaque consultation, ils ne recoivent qu'un malade.
+* L'examen clinique permet de détecter les symptômes( température, mal de tête, fréquence cardiaque élevée) et de diagnostiquer éventuellement une ou plusieurs maladies ou pathologies(rhume, crise de foie, spasmophilie). 
+
+* A chaque maladie peuvent être associés un ou plusieurs symptômes.
+
+
